@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+openai
+python-dotenv
+celery
+redis
+requests
+python-multipart
+alembic
+cloudinary
+boto3
